@@ -10,7 +10,7 @@ function Navbar({ search,setSearch }) {
         <>
             <nav className="navbar navbar-expand-lg bg-body-tertiary m-2 rounded">
                 <div className="container-fluid">
-                    <Link className="navbar-brand fw-bold nav-hover" to="/">𝐵❀🏵𝓀 𝐿𝒾𝒷𝓇𝒶𝓇𝓎</Link>
+                    <Link className="navbar-brand fw-bold nav-hover" to="/">Library Management</Link>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                     </button>
